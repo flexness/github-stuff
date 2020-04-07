@@ -4,12 +4,12 @@ basic github stuff, e.g. tutorials, shortcuts, links, guides, etc.
 
 ## basic git commands
 - $ git init
-- $ git clone:
-  -
+- $ git clone
 - $ git status
 - $ git add:
   - $ git add .
   - $ git add <filename.ending>
+- $ git rm -r <filename.ending>
 - $ git commit -m "commit msg"
 - $ git push:
   - $ git push -u origin master

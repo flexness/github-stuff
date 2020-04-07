@@ -1,9 +1,9 @@
-# gitgud-test
+# gitgud-github
 
 basic github stuff, e.g. tutorials, shortcuts, links, guides, etc.
 
 ## basic git commands
-- $ git init
+- `$ git init`
 - $ git clone
 - $ git status
 - $ git add:
